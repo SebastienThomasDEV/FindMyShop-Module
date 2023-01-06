@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>findmyshop</name>
+    <displayName><![CDATA[Find my Shop !]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Affiche une carte avec toutes vos boutiques !]]></description>
+    <author><![CDATA[ST]]></author>
+    <tab><![CDATA[]]></tab>
+	<confirmUninstall><![CDATA[Vous desinstaller le module Find My Shop : êtes-vous sûr de votre choix ? ]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
